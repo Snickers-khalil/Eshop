@@ -1,4 +1,5 @@
 Here is a full description of your project with a focus on the architecture, configuration, dependencies, and functionalities:
+![Project Logo](assets/images/logo.png)
 
 ---
 
